@@ -12,6 +12,6 @@ Features included in this project are :
 6. Headers to HTTP Requests using @Headers, @Header and @HeaderMap
 
 Links and Dependencies :
-1. JSON PlaceHolder Api : https://jsonplaceholder.typicode.com
-2 OkHttp GitHub page with HttpLoggingInterceptor dependency: https://github.com/square/okhttp
-3. Retrofit + converter dependencies : https://square.github.io/retrofit
+1. JSON PlaceHolder Api : https://jsonplaceholder.typicode.com/
+2. OkHttp GitHub page with HttpLoggingInterceptor dependency: https://github.com/square/okhttp
+3.  Retrofit + converter dependencies : https://square.github.io/retrofit
